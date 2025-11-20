@@ -53,6 +53,7 @@ plot(fw);
 fw2=(abs(fw)).^2;
 subplot(3,2,5);
 plot(fw2);
+
 ## OUTPUT
 <img width="439" height="331" alt="image" src="https://github.com/user-attachments/assets/57b5164e-db25-4245-850a-4fc4c60fe8ad" />
 
